@@ -20,9 +20,6 @@ Repositório destinado à documentação, scripts, procedimentos e projetos rela
 ## Objetivo
 
 Centralizar conhecimento técnico e procedimentos utilizados na administração da infraestrutura de TI.
-<p align="center">
-  <img src="../imagens/00-fundamentos/banner-infraestrutura.svg" alt="Banner: Infraestrutura de TI" width="100%">
-</p>
 
 # 🏗️ O que é Infraestrutura de TI
 
@@ -42,10 +39,6 @@ Quando você abre o app do seu banco e vê o saldo em 2 segundos, **o que precis
 
 Seu celular (hardware) com um sistema operacional (software) se conectou pela internet (rede) até os servidores do banco, que consultaram um banco de dados (armazenamento), tudo protegido por criptografia e autenticação (segurança), monitorado 24h por uma equipe seguindo processos definidos (pessoas e processos).
 
-<p align="center">
-  <img src="../imagens/00-fundamentos/fluxo-app-banco.svg" alt="Fluxo: celular, internet, firewall, servidor e banco de dados" width="100%">
-</p>
-
 **Tudo isso é infraestrutura de TI.** E você só percebeu que ela existe agora, porque ela funcionou. 😉
 
 </details>
@@ -62,10 +55,6 @@ Ela é a base sobre a qual rodam todos os sistemas e serviços do negócio.
 
 Imagine que os sistemas da empresa são uma cidade:
 
-<p align="center">
-  <img src="../imagens/00-fundamentos/analogia-cidade.svg" alt="Cidade com prédios, ruas, poste, prefeitura, cofre e câmera representando os pilares" width="100%">
-</p>
-
 | Na cidade 🏙️ | Na infraestrutura de TI 💻 |
 |---|---|
 | Terrenos e prédios | Hardware (servidores, data centers) |
@@ -81,10 +70,6 @@ Imagine que os sistemas da empresa são uma cidade:
 ---
 
 ## 🎯 Objetivos da infraestrutura
-
-<p align="center">
-  <img src="../imagens/00-fundamentos/objetivos.svg" alt="Ícones dos cinco objetivos" width="100%">
-</p>
 
 Marque os objetivos que você já viu falhar na prática (em algum sistema que você usa):
 
@@ -111,9 +96,6 @@ Marque os objetivos que você já viu falhar na prática (em algum sistema que v
 
 ## ☁️ Modelos de infraestrutura
 
-<p align="center">
-  <img src="../imagens/00-fundamentos/modelos-infraestrutura.svg" alt="Comparação visual entre on-premises, cloud e híbrida" width="100%">
-</p>
 
 | Modelo | Descrição | ✅ Vantagens | ⚠️ Desvantagens |
 |---|---|---|---|
@@ -162,21 +144,12 @@ Qual modelo você escolheria para cada caso?
 
 ## 🕰️ Evolução histórica
 
-<p align="center">
-  <img src="../imagens/00-fundamentos/evolucao-historica.svg" alt="Linha do tempo: mainframes até containers" width="100%">
-</p>
-
-
 > [!IMPORTANT]
 > Repare no padrão: a cada fase, a infraestrutura fica **mais abstrata**. Primeiro você precisava de uma sala inteira para um computador; hoje você cria um servidor com uma linha de código. Esse movimento de abstração vai aparecer em todos os pilares.
 
 ---
 
 ## 💼 Por que isso importa para o negócio
-
-<p align="center">
-  <img src="../imagens/00-fundamentos/impacto-negocio.svg" alt="Infraestrutura mal planejada versus bem planejada" width="100%">
-</p>
 
 
 Infraestrutura **não é só uma questão técnica: é uma decisão estratégica.** Quem decide mal sobre infraestrutura decide mal sobre o negócio.
@@ -248,7 +221,7 @@ A **virtualização**.
 
 ### ✅ Checklist da página
 
-- [ ] Entendi a definição de infraestrutura de TI
+- [x] Entendi a definição de infraestrutura de TI
 - [ ] Consigo explicar a analogia da cidade para outra pessoa
 - [ ] Sei diferenciar on-premises, cloud e híbrida
 - [ ] Respondi o teste de conhecimentos
