@@ -1,0 +1,44 @@
+# O que é Infraestrutura de TI
+
+## Definição
+
+Infraestrutura de TI é o conjunto de **componentes físicos, lógicos, humanos e processuais** que permite a uma organização armazenar, processar, transmitir e proteger informações. Ela é a base sobre a qual rodam todos os sistemas e serviços usados pelo negócio.
+
+Uma analogia útil: se os sistemas da empresa fossem uma cidade, a infraestrutura seria o conjunto de ruas, rede elétrica, encanamento e as equipes que mantêm tudo funcionando. Ninguém repara nela quando funciona, mas tudo para quando ela falha.
+
+## Objetivos da infraestrutura
+
+- **Disponibilidade** — os serviços precisam estar acessíveis quando o usuário precisa.
+- **Desempenho** — responder com velocidade adequada à demanda.
+- **Segurança** — proteger dados e sistemas contra acessos indevidos e falhas.
+- **Escalabilidade** — crescer (ou diminuir) conforme a necessidade do negócio.
+- **Custo controlado** — entregar tudo isso de forma financeiramente sustentável.
+
+## Modelos de infraestrutura
+
+| Modelo | Descrição | Vantagens | Desvantagens |
+|---|---|---|---|
+| **On-premises** | Equipamentos próprios, no local da empresa | Controle total, dados sob posse direta | Alto custo inicial (CAPEX), manutenção própria |
+| **Cloud (nuvem)** | Recursos contratados de um provedor, sob demanda | Escala rápida, paga pelo uso (OPEX) | Dependência do provedor, custos podem crescer sem controle |
+| **Híbrida** | Combinação de on-premises e cloud | Flexibilidade, equilíbrio entre controle e escala | Maior complexidade de gestão e integração |
+
+## Evolução histórica (resumo)
+
+1. **Mainframes (anos 1960–70)** — processamento centralizado em grandes computadores.
+2. **Cliente-servidor (anos 1980–90)** — PCs conectados a servidores em rede local.
+3. **Internet e data centers (anos 1990–2000)** — serviços expostos na web, grandes centros de dados.
+4. **Virtualização (anos 2000)** — vários servidores lógicos em um mesmo hardware físico.
+5. **Cloud computing (anos 2010)** — infraestrutura como serviço, sob demanda.
+6. **Containers, IaC e edge (atualidade)** — automação, infraestrutura como código e processamento próximo ao usuário.
+
+## Por que isso importa para o negócio
+
+Uma infraestrutura mal planejada gera indisponibilidade, perda de dados, riscos de segurança e custos inesperados. Uma bem planejada permite que a empresa lance produtos mais rápido, atenda mais clientes e reaja melhor a incidentes. Por isso, infraestrutura não é só uma questão técnica: é uma decisão estratégica.
+
+## Anotações pessoais
+
+> Use este espaço para registrar dúvidas, exemplos do seu dia a dia ou links úteis.
+
+---
+
+⬅️ [Voltar ao índice](./README.md) · ➡️ [Pilares — visão geral](./pilares-visao-geral.md)
